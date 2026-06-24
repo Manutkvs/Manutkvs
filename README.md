@@ -1,5 +1,4 @@
 <div align="center">
-
 <h1>Hola 👋 soy Manu</h1>
 
 <img src="https://img.shields.io/badge/Futuro_Ingeniero_en_Ciberseguridad-151515?style=for-the-badge&logo=linux&logoColor=white" />
@@ -22,7 +21,6 @@
 
 </div>
 
-<br>
 
 ## 😊 Sobre mí
 
@@ -60,8 +58,8 @@
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" title="HTML5" style="filter: drop-shadow(0 0 2px #fff);"/>
 &nbsp;&nbsp;&nbsp;
-<br><br>
 
+<br><br>
 
 </div>
 
@@ -69,29 +67,11 @@
 
 ## 🎯 Ahora estoy...
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin: 20px 0;">
-
-<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);">
-<h3 style="margin: 0; color: white;">📚 Python & Estructuras</h3>
-<p style="margin: 5px 0 0 0; color: rgba(255,255,255,0.9); font-size: 14px;">Mejorando para la uni</p>
-</div>
-
-<div align="center" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(245, 87, 108, 0.4);">
-<h3 style="margin: 0; color: white;">🐧 Linux & Terminal</h3>
-<p style="margin: 5px 0 0 0; color: rgba(255,255,255,0.9); font-size: 14px;">Todo desde la línea de comandos</p>
-</div>
-
-<div align="center" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(79, 172, 254, 0.4);">
-<h3 style="margin: 0; color: white;">🔒 Ethical Hacking</h3>
-<p style="margin: 5px 0 0 0; color: rgba(255,255,255,0.9); font-size: 14px;">Seguridad de redes & pentesting</p>
-</div>
-
-<div align="center" style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(250, 112, 154, 0.4);">
-<h3 style="margin: 0; color: white;">🎵 Música & Código</h3>
-<p style="margin: 5px 0 0 0; color: rgba(255,255,255,0.9); font-size: 14px;">Descubriendo nuevos ritmos</p>
-</div>
-
-</div>
+| 📚 | Mejorando Python y estructuras de datos para la uni |
+|---|---|
+| 🐧 | Aprendiendo todo desde la terminal en Linux |
+| 🔒 | Explorando ethical hacking y seguridad de redes |
+| 🎵 | Descubriendo nuevos ritmos mientras programo |
 
 <br>
 
@@ -105,16 +85,15 @@
 
 <br>
 
-## 📊 Mi Actividad en GitHub
+
+📊 Mi Actividad en GitHub
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=Manutkvs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff&icon_color=58a6ff" width="370" alt="GitHub Stats"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manutkvs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff" width="370" alt="Top Languages"/>
-
 <br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manutkvs&theme=tokyonight&hide_border=true&background=0d1117" width="370" alt="GitHub Streak"/>
-
+</div>
+<div align="center">
+  <strong>✨ Siempre aprendiendo, siempre mejorando ✨</strong>
 </div>
