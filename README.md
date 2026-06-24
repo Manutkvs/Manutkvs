@@ -85,6 +85,15 @@
 
 <br>
 
+
+📊 Mi Actividad en GitHub
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Manutkvs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff&icon_color=58a6ff" width="370" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manutkvs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff" width="370" alt="Top Languages"/>
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manutkvs&theme=tokyonight&hide_border=true&background=0d1117" width="370" alt="GitHub Streak"/>
+</div>
 <div align="center">
   <strong>✨ Siempre aprendiendo, siempre mejorando ✨</strong>
 </div>
