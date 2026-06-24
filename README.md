@@ -1,80 +1,106 @@
 <div align="center">
-  
-  <img src="https://avatars.githubusercontent.com/u/TU_ID_DE_GITHUB?v=4" alt="Avatar" width="120" style="border-radius: 50%; border: 3px solid #58a6ff; box-shadow: 0 0 20px rgba(88, 166, 255, 0.5);"/>
 
-  <h1>⚡ Manu</h1>
-  <p><strong>Ciberseguridad | Pentesting | Linux & Redes</strong></p>
-  
-  <a href="https://instagram.com/TU_USUARIO">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/TU_USUARIO">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/TU_USUARIO">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<img src="https://avatars.githubusercontent.com/u/TU_ID_DE_GITHUB?v=4" alt="Avatar" width="180" style="border-radius: 50%; border: 4px solid #58a6ff; box-shadow: 0 0 30px rgba(88, 166, 255, 0.6);"/>
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-5353767cd783.gif" width="500" height="3" />
+<h1>Hola 👋 soy [Tu Nombre]</h1>
 
-</div>
+<img src="https://img.shields.io/badge/Futuro_Ingeniero_en_Ciberseguridad-151515?style=for-the-badge&logo=linux&logoColor=white" />
 
-## 🎯 Sobre mí
+<br><br>
 
-> Futuro ingeniero apasionado por **seguridad ofensiva** y **hacking ético**. Autodidacta obsesionado con entender cómo funcionan las cosas por dentro. Linux is love 🐧
+<a href="https://instagram.com/TU_USUARIO" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/TU_USUARIO" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:TU_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<table>
-  <tr>
-    <td width="50%">
-      
-**💡 Lo mío:**
-- 🔓 Ethical Hacking & Pentesting
-- 🛡️ Seguridad en redes y sistemas
-- 🖥️ Automatización con scripts
-- 📚 Siempre aprendiendo
-      
-    </td>
-    <td width="50%">
-      
-**⚙️ Actualmente:**
-- 🔨 Mejorando Python & Redes
-- 🐧 Dominando Linux/Bash
-- 🎯 Preparándome para la uni
-- 🎵 Siempre con música 🎧
-      
-    </td>
-  </tr>
-</table>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Lenguajes:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-**Herramientas:**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-5353767cd783.gif" width="600" height="8" />
 
 </div>
 
-## 📈 Stats
+<br>
+
+## 😊 Sobre mí
+
+👨‍💻 **Estudiante de Ingeniería en Ciberseguridad** | Apasionado por el hacking ético y la seguridad informática
+
+🔓 Obsesionado con entender cómo funcionan las cosas por dentro  
+🐧 Linux & Terminal es mi second home  
+🎯 Trabajando en mejorar mis skills en Python, redes y pentesting  
+🎵 Siempre con música de fondo mientras codifico  
+🚀 Autodidacta — aprendo de todo y para todo
+
+<br>
+
+## 🛠️ Tecnologías que manejo
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs,prs" width="320" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=tokyonight&hide_border=true" width="320" alt="Top Languages"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60" title="Python"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" title="JavaScript"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="60" height="60" title="Bash"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60" height="60" title="PHP"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60" title="C"/>
+
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="60" height="60" title="Linux"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60" title="Git"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60" title="GitHub"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60" title="MySQL"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60" title="Docker"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+
 </div>
 
----
+<br>
+
+## 🎯 Ahora estoy...
+
+| 📚 | Mejorando Python y estructuras de datos para la uni |
+|---|---|
+| 🐧 | Aprendiendo todo desde la terminal en Linux |
+| 🔒 | Explorando ethical hacking y seguridad de redes |
+| 🎵 | Descubriendo nuevos ritmos mientras programo |
+
+<br>
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_DE_GITHUB&color=58a6ff&style=flat-square" alt="Profile Views"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff" width="380" alt="GitHub Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff" width="380" alt="Top Languages"/>
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_DE_GITHUB&color=58a6ff&style=for-the-badge" />
 </div>
