@@ -1,60 +1,80 @@
 <div align="center">
+  
+  <img src="https://avatars.githubusercontent.com/u/TU_ID_DE_GITHUB?v=4" alt="Avatar" width="120" style="border-radius: 50%; border: 3px solid #58a6ff; box-shadow: 0 0 20px rgba(88, 166, 255, 0.5);"/>
 
-  <!-- Título Principal -->
-  <h1>Hola, soy [Tu Nombre] 👋</h1>
-  <img src="https://img.shields.io/badge/Futuro_Ing._en_Ciberseguridad-151515?style=for-the-badge&logo=openbugbounty&logoColor=white" />
-
-  <br><br>
-
-  <!-- Redes Sociales (Botones limpios, sin listas, bien acomodados) -->
-  <a href="https://instagram.com/TU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <h1>⚡ Manu</h1>
+  <p><strong>Ciberseguridad | Pentesting | Linux & Redes</strong></p>
+  
+  <a href="https://instagram.com/TU_USUARIO">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:tu_correo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  &nbsp;
+  <a href="https://github.com/TU_USUARIO">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  &nbsp;
+  <a href="https://linkedin.com/in/TU_USUARIO">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <br><br>
-
-  <!-- Separador -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-5353767cd783.gif" width="600" height="8" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-5353767cd783.gif" width="500" height="3" />
 
 </div>
 
-<!-- SOBRE MÍ (Texto denso, sin espacios en blanco, hablando de que apenas vas a entrar) -->
-Soy un chico que está a punto de dar uno de los saltos más importantes de su vida: entrar a la universidad a estudiar Ingeniería en Ciberseguridad. No soy ingeniero todavía ni tengo un título colgado en la pared, pero tengo algo que considero igual de importante: curiosidad y ganas de romper cosas para entender cómo funcionan desde antes de entrar a la escuela. Mi objetivo es llegar al primer día de clases sabiendo más de lo que se espera de un recién ingresado. Me paso el día investigando sobre vulnerabilidades lógicas, entendiendo cómo se comunican las redes y acostumbrándome a pensar como alguien que tiene que proteger sistemas, no solo usarlos. Fuera de la computadora, la música es mi constante; siempre hay algo sonando de fondo mientras intento resolver un problema de código o mientras planeo mi próximo proyecto personal.
+## 🎯 Sobre mí
 
-<br>
+> Futuro ingeniero apasionado por **seguridad ofensiva** y **hacking ético**. Autodidacta obsesionado con entender cómo funcionan las cosas por dentro. Linux is love 🐧
 
-<!-- TECNOLOGÍAS -->
-**🛠️ Tecnologías que manejo:**
-Aunque sé que la carrera me va a enseñar muchísimo, no empecé desde cero. Ya me siento cómodo trabajando con ciertas herramientas que son la base de lo que quiero hacer. Conozco la lógica de **Python**, que sé que me va a ser vital para automatizar tareas y escribir scripts; manejo **JavaScript** y **PHP** porque entender cómo se construye la web es el primer paso para saber cómo defenderla o encontrar sus fallos. Y, fundamentalmente, me llevo muy bien con **Linux**, ya que para mí la terminal no es algo intimidante, sino mi entorno natural de trabajo. 
+<table>
+  <tr>
+    <td width="50%">
+      
+**💡 Lo mío:**
+- 🔓 Ethical Hacking & Pentesting
+- 🛡️ Seguridad en redes y sistemas
+- 🖥️ Automatización con scripts
+- 📚 Siempre aprendiendo
+      
+    </td>
+    <td width="50%">
+      
+**⚙️ Actualmente:**
+- 🔨 Mejorando Python & Redes
+- 🐧 Dominando Linux/Bash
+- 🎯 Preparándome para la uni
+- 🎵 Siempre con música 🎧
+      
+    </td>
+  </tr>
+</table>
 
-<br>
+## 🛠️ Tech Stack
+
 <div align="center">
-  <!-- Logos oficiales -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="55" height="50"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+
+**Lenguajes:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Herramientas:**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+
 </div>
 
-<br>
+## 📈 Stats
 
-<!-- QUÉ ESTOY HACIENDO AHORA (Estructura fluida, no tablas aburridas) -->
-**🎯 ¿Qué estoy haciendo ahora mismo?**
-Como aún no estoy dentro de las aulas, mi formación es 100% autodidacta en este momento. Estoy dedicando horas a pulir mi flujo de trabajo en la terminal de Linux, porque sé que en la ciberseguridad si no te sientes cómodo sin interfaz gráfica, vas a ir lento. Al mismo tiempo, estoy construyendo pequeños proyectos en Python y PHP no solo para aprender a programar, sino para entender desde ahora cómo se comportan las aplicaciones del lado del servidor y qué errores comunes pueden dejar expuestos los datos. Además, obviamente, estoy disfrutando mi tiempo libre escuchando música, leyendo sobre la cultura hacker y preparándome mentalmente para el reto que viene.
-
-<br>
-
-<!-- Cierre del perfil -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-5353767cd783.gif" width="600" height="8" />
-  <p><i>"No necesito estar en la universidad para empezar a construir mi futuro en la ciberseguridad."</i></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs,prs" width="320" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=tokyonight&hide_border=true" width="320" alt="Top Languages"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_DE_GITHUB&color=58a6ff&style=flat-square" alt="Profile Views"/>
 </div>
