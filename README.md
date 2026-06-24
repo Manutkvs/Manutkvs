@@ -54,7 +54,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60" height="60" title="PHP"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60" title="C"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" alt="Kali Linux" width="60" height="60" title="Kali Linux"/>
 
 <br><br>
 
@@ -64,16 +64,15 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60" title="GitHub"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60" title="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60" title="VS Code"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60" title="HTML5"/>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 
 </div>
 
@@ -89,18 +88,16 @@
 
 <br>
 
-## 📊 GitHub Stats
+## 🎓 Objetivos & Roadmap
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff" width="380" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff" width="380" alt="Top Languages"/>
-
-</div>
+- 🔐 Profundizar en **Análisis de Tráfico** con Wireshark
+- 🛡️ Dominar **Pentesting** y seguridad ofensiva
+- 🐍 Crear herramientas de **automatización** con Python
+- 🌐 Aprender más sobre **Redes y Protocolos**
+- 💼 Contribuir en **Proyectos Open Source**
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_DE_GITHUB&color=58a6ff&style=for-the-badge" />
+  <strong>✨ Siempre aprendiendo, siempre mejorando ✨</strong>
 </div>
