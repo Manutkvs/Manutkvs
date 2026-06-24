@@ -21,7 +21,6 @@
 
 </div>
 
-<br>
 
 ## 😊 Sobre mí
 
@@ -59,7 +58,6 @@
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" title="HTML5" style="filter: drop-shadow(0 0 2px #fff);"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" title="CSS3" style="filter: drop-shadow(0 0 2px #fff);"/>
 
 <br><br>
 
