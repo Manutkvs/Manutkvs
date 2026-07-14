@@ -86,8 +86,18 @@
 <br>
 
 
-## 📊 Mi Actividad en GitHub
+
+
+## 📊 GitHub
 
 <div align="center">
-<img src="./metrics.svg" alt="GitHub Metrics"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Manutkvs&color=58a6ff&style=for-the-badge&label=VISITAS+AL+PERFIL)
+
+</div>
+
+<br>
+
+<div align="center">
+  <strong>✨ Siempre aprendiendo, siempre mejorando ✨</strong>
 </div>
