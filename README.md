@@ -89,14 +89,5 @@
 ## 📊 Mi Actividad en GitHub
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Manutkvs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff&icon_color=58a6ff" width="370" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manutkvs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff" width="370" alt="Top Languages"/>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manutkvs&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" width="760" alt="Activity Graph"/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Manutkvs&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" width="760" alt="GitHub Trophies"/>
+<img src="./metrics.svg" alt="GitHub Metrics"/>
 </div>
