@@ -37,13 +37,11 @@ Mi objetivo es construir un portafolio que refleje mi evolución como desarrolla
 
 </div>
 
-## 📈 MI ACTIVIDAD EN GITHUB
+## 🧩 MI STACK TECNOLÓGICO
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/Manutkvs" alt="Calendario de contribuciones de Manutkvs" width="100%" />
-
-**Cada cuadro representa la actividad registrada en GitHub.**
+<img src="https://skillicons.dev/icons?i=python,linux,git,github,vscode,bash&theme=dark" />
 
 </div>
 
