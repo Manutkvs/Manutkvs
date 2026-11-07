@@ -1,103 +1,100 @@
+# 👋 ¡Hola! Soy Manu
+
 <div align="center">
-<h1>Hola 👋 soy Manu</h1>
 
-<img src="https://img.shields.io/badge/Futuro_Ingeniero_en_Ciberseguridad-151515?style=for-the-badge&logo=linux&logoColor=white" />
+# 🔐 Estudiante de Ingeniería en Ciberseguridad
 
-<br><br>
+**Construyendo, aprendiendo y explorando el mundo de la tecnología y la seguridad informática.**
 
-<a href="https://instagram.com/TU_USUARIO" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:TU_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-5353767cd783.gif" width="600" height="8" />
+<img src="https://img.shields.io/badge/Ciberseguridad-0A192F?style=for-the-badge&logo=hackthebox&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/Open%20Source-0A192F?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Aprendiendo%20siempre-0A192F?style=for-the-badge&logo=bookstack&logoColor=00D9FF" />
 
 </div>
 
+---
 
-## 😊 Sobre mí
+## 🧑‍💻 Sobre mí
 
-👨‍💻 **Estudiante de Ingeniería en Ciberseguridad** | Apasionado por el hacking ético y la seguridad informática
+Soy estudiante de **Ingeniería en Ciberseguridad**, interesado en comprender cómo funcionan los sistemas, las redes y las tecnologías que utilizamos todos los días.
 
-🔓 Obsesionado con entender cómo funcionan las cosas por dentro  
-🐧 Linux & Terminal es mi second home  
-🎯 Trabajando en mejorar mis skills en Python, redes y pentesting  
-🎵 Siempre con música de fondo mientras codifico  
-🚀 Autodidacta — aprendo de todo y para todo
+Me gusta aprender mediante la práctica, desarrollar herramientas propias y documentar mis avances a través de proyectos.
 
-<br>
+- 🔐 Interés en ciberseguridad y hacking ético.
+- 💻 Desarrollo de proyectos y herramientas.
+- 🐧 Explorando Linux y la terminal.
+- 🌐 Aprendiendo sobre redes y protocolos.
+- 🚀 Construyendo mi camino en el mundo de la tecnología.
 
-## 🛠️ Tecnologías que manejo
+---
+
+## 🛠️ Tecnologías y herramientas
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" title="Python" style="filter: drop-shadow(0 0 2px #fff);"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" title="JavaScript" style="filter: drop-shadow(0 0 2px #fff);"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="50" height="50" title="Bash" style="filter: drop-shadow(0 0 2px #fff);"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50" title="PHP" style="filter: drop-shadow(0 0 2px #fff);"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" alt="Kali Linux" width="50" height="50" title="Kali Linux" style="filter: drop-shadow(0 0 2px #fff);"/>
-
-<br><br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" title="Linux" style="filter: drop-shadow(0 0 2px #fff);"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" title="Git" style="filter: drop-shadow(0 0 2px #fff);"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" title="VS Code" style="filter: drop-shadow(0 0 2px #fff);"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" title="HTML5" style="filter: drop-shadow(0 0 2px #fff);"/>
-&nbsp;&nbsp;&nbsp;
-
-<br><br>
+<img src="https://skillicons.dev/icons?i=c,linux,bash,git,github,vscode&theme=dark" />
 
 </div>
 
-<br>
+**Actualmente enfocado en:** programación en C, fundamentos de Linux, redes y seguridad informática.
 
-## 🎯 Ahora estoy...
+*Las tecnologías mostradas representan herramientas que estoy explorando y utilizando en mi aprendizaje, no necesariamente conocimientos avanzados.*
 
-| 📚 | Mejorando Python y estructuras de datos para la uni |
-|---|---|
-| 🐧 | Aprendiendo todo desde la terminal en Linux |
-| 🔒 | Explorando ethical hacking y seguridad de redes |
-| 🎵 | Descubriendo nuevos ritmos mientras programo |
+---
 
-<br>
+## 🚀 Proyectos destacados
 
-## 🎓 Objetivos & Roadmap
+### 🔎 ShadowTrace
+**Analizador forense de registros desarrollado en C.**
 
-- 🔐 Profundizar en **Análisis de Tráfico** con Wireshark
-- 🛡️ Dominar **Pentesting** y seguridad ofensiva
-- 🐍 Crear herramientas de **automatización** con Python
-- 🌐 Aprender más sobre **Redes y Protocolos**
-- 💼 Contribuir en **Proyectos Open Source**
+Proyecto orientado al análisis de archivos de registros, identificación de eventos sospechosos y generación de informes.
 
-<br>
+- Lenguaje: C
+- Área: análisis de registros y ciberseguridad.
+- Código fuente: [Ver repositorio](https://github.com/Manutkvs/ShadowTrace)
 
+---
 
-
-
-## 📊 GitHub
+## 📊 Estadísticas de GitHub
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Manutkvs&color=58a6ff&style=for-the-badge&label=VISITAS+AL+PERFIL)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Manutkvs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manutkvs&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 
 </div>
 
-<br>
+### 📈 Lenguajes utilizados
+
+La tarjeta anterior analiza los lenguajes detectados en tus repositorios y muestra su distribución según el tamaño del código.
+
+---
+
+## 🎯 En lo que estoy trabajando
+
+- 🔐 Aprender fundamentos de ciberseguridad.
+- 💻 Mejorar mis habilidades de programación en C.
+- 🐧 Familiarizarme con Linux.
+- 🌐 Comprender redes y protocolos.
+- 🛡️ Desarrollar proyectos relacionados con seguridad informática.
+
+---
+
+## 📫 Contacto
 
 <div align="center">
-  <strong>✨ Siempre aprendiendo, siempre mejorando ✨</strong>
+
+<a href="https://github.com/Manutkvs">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+**⚡ Aprendiendo hoy, construyendo el futuro.**
+
 </div>
