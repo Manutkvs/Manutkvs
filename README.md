@@ -42,7 +42,7 @@ Mi objetivo es construir un portafolio que refleje mi evolución como desarrolla
 <div align="center">
 
 <a href="https://github.com/Manutkvs/osint-username-finder">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manutkvs&repo=osint-username-finder&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Manutkvs&repo=osint-username-finder&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
