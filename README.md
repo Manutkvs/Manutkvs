@@ -37,13 +37,7 @@ Mi objetivo es construir un portafolio que refleje mi evolución como desarrolla
 
 </div>
 
-## 🧩 MI STACK TECNOLÓGICO
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,linux,git,github,vscode,bash&theme=dark" />
-
-</div>
 
 ### OSINT Username Finder
 
