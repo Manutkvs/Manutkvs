@@ -37,13 +37,13 @@ Mi objetivo es construir un portafolio que refleje mi evolución como desarrolla
 
 </div>
 
-## PROYECTOS DESTACADOS
+## 📈 MI ACTIVIDAD EN GITHUB
 
 <div align="center">
 
-<a href="https://github.com/Manutkvs/osint-username-finder">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Manutkvs&repo=osint-username-finder&theme=tokyonight&hide_border=true" />
-</a>
+<img src="https://ghchart.rshah.org/Manutkvs" alt="Calendario de contribuciones de Manutkvs" width="100%" />
+
+**Cada cuadro representa la actividad registrada en GitHub.**
 
 </div>
 
